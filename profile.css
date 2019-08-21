@@ -1,0 +1,30 @@
+#pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.one{
+    border: 1px black;
+    box-shadow: 5px 5px 3px grey;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+   
+
+}
+.two{
+    border: 1px black;
+    box-shadow: 5px 5px 4px grey;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+
+}
+.three{
+    border: 1px black;
+    box-shadow: 5px 5px 3px grey;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+    
+}

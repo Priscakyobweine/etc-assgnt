@@ -1,0 +1,34 @@
+.root{
+       height: 95%; 
+       font-size: 15px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.blue{
+    background-image: url(tw.png);
+    width: 50%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+}
+.form{
+    height: 30%;
+    padding: 5px;
+}
+
+.pic{
+    height: 50px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 15px;
+}
+p{
+    font-size: 12px;
+}
+.login{
+    border: 2px;
+    border-color: blue;
+}
